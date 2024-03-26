@@ -1,3 +1,5 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2403.16543-b31b1b.svg)](https://arxiv.org/abs/2403.16543)
+
 # Efficient Information Extraction in Few-Shot Relation Classification through Contrastive Representation Learning
 
 # Abstract
@@ -54,6 +56,7 @@ python train.py \
 ```
 
 # Reference
+
 ```bibtex
 ```
 
