@@ -58,6 +58,22 @@ python train.py \
 # Reference
 
 ```bibtex
+@inproceedings{borchert-etal-2024-efficient,
+    title = "Efficient Information Extraction in Few-Shot Relation Classification through Contrastive Representation Learning",
+    author = "Borchert, Philipp  and
+      De Weerdt, Jochen  and
+      Moens, Marie-Francine",
+    editor = "Duh, Kevin  and
+      Gomez, Helena  and
+      Bethard, Steven",
+    booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 2: Short Papers)",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.naacl-short.54",
+    pages = "638--646",
+}
 ```
 
 ## License 
